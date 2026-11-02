@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OnlyFans - Restore Right-click to Save and Long-Press Downloads on Mobile
 // @namespace    github.com/AnimatedEightball
-// @match        https://onlyfans.com/*
+// @match        https://onlyfans.com/* https://*.fanfix.io/*
 // @run-at       document-start
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/AnimatedEightball/OF-mobile-userscript/refs/heads/main/OF-easy-individual-download.user.js
